@@ -1,0 +1,51 @@
+General criteria (personal)
+
+Personality / demeanor / personal appearance (Flexible and easy to get along with, an adaptable, impression about appearance)
+Communication skills (Listens, understands and express him/herself well)
+Attendance and promptness (Observes assigned working hours, is conscientious)
+Self-control (Maintains composure and performs well under pressure)
+Organization and time-awareness (Sets and observes own priorities for the best use of his/her time)
+
+Developer
+
+Junior  Dev
+Responsibility (Responsible personality. Assigned tasks are taken care of without waiting for team lead. Escalate to team lead only when you don't know what to do)
+Desire to work (Person takes initiative with responsibility. Eager to learn and improve skills. Demonstrates urge to make the project/work a success)
+Ability to learn (Demonstrates constant progress. Learns from previous experience. Can resolve issues in which she/he does not have experience yet)
+Engineering basics (Solid understanding of the basics of technologies, approaches, methodologies specific to the position/project (as defined by the Team Lead))
+Productivity (Demonstrates swift execution and urge to do even better / exceed expectations)
+Communication skills (Clearly and swiftly can express his thoughts within the team (also in English))
+Intermediate level of English
+Loyalty (Demonstrates loyalty to the company and its goals. Demonstrates long term vision within the company for himself. Involved in company life (business & leisure))
+
+Middle Dev
+Think wider (Think beyond the assigned tasks, possibly beyond the project)
+Good understanding of technologies that are frequently used within his area of technology
+Basics of frequently used patterns
+Good coding quality (Stable working code. No need to re-work. Easy to read & maintain)
+Firm understanding of work process (Scrum, project starting, expectation management, etc.)
+Quality close to customer demands (The customer should demonstrate satisfaction with the quality)
+Ability to efficiently communicate with client
+Ability to help juniors
+Realistic estimations
+Improved Productivity
+Independent execution of most work - Able to perform most work without supervision with positive result.
+
+Senior / TL Dev
+Can execute all tasks independently (Technical tasks, escalations, customer expectation management, etc.)
+Looking beyond the horizon (Anticipating future needs of the company. Taking timely actions)
+Confidence in approaching a new thing (Can do approach. Belief in ability to accomplish the task)
+Able to efficiently manage client expectations
+Charismatic Leadership (Understanding of the position of others, lateral approach. Positive attitude)
+Ability to motivate
+Ability to control execution
+Ability to guide juniors in estimate
+Ability to stimulate growth in team members  (Giving a push in the right direction, giving opportunity to take responsibility)
+Ability to optimally delegate work
+Knowledge of process technologies used in company
+Deep understanding of technology
+Sound understanding of architecture
+Ability to break work in to parts
+Highest  level of personal productivity
+Maintains a balance between team productivity and profitability
+Lead juniors / middle in communication with customer
